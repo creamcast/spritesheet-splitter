@@ -14,4 +14,4 @@ e.g. There are 20 64x64 sprites in a sprite sheet named spritesheet.jpg and you 
 
 split.exe spritesheet.jpg 64 64 0
 
-Download: https://github.com/creamcast/spritesheet-splitter/releases/download/untagged-bb766d3da7a7f63712c5/split.exe
+Download: https://github.com/creamcast/spritesheet-splitter/releases/download/binary/split.exe
